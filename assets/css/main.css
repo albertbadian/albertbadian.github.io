@@ -2840,7 +2840,7 @@ input, select, textarea {
 			letter-spacing: 0.1em;
 			margin: 0 0 1em 0;
 			text-decoration: none;
-			text-transform: uppercase;
+			text-transform: none;
 			display: inline-block;
 			font-size: 2em;
 		}
